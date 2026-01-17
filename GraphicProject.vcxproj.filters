@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="assets">
+      <UniqueIdentifier>{69f8a1d2-f815-4482-bf66-30a89acfdf53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Textures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mobs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Perlin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\yellow.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\black.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\blue.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\body_back.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\clouds.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\front_body.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\grass.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\hand.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\head_side.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\head-back.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\leg.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\red.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\shoe.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\side.png">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\soil.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\soil_floor.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\soil1.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\steve_head.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\stone.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\tree.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\water.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\xa40ixptjv761.jpg">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="C:\Users\Akash Abeywickrame\Downloads\menu_bg.jpg">
+      <Filter>assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Akash Abeywickrame\source\repos\MineCraftScenary\MineCraftScenary\blue.avif">
+      <Filter>assets</Filter>
+    </None>
+  </ItemGroup>
+</Project>
